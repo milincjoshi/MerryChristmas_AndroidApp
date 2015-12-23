@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Holiday Card</string>
+    <string name="action_settings">Settings</string>
+    <string name="greeting">Merry Christmas</string>
+    <string name="user">From Milin</string>
+
+</resources>
